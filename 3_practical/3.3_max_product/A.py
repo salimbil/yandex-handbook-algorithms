@@ -1,4 +1,4 @@
-# Компилятор: Python 3.13.2
+# Компилятор: Python 3.11 (PyPy 7.3.19)
 
 def MaxPairwiseProductBySorting(a):
     a.sort()
